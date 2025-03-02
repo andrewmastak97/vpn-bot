@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+python-dotenv>=0.19.0
+aiosqlite>=0.17.0
+yookassa>=2.3.0
+pytz>=2021.3
+wireguard_tools>=0.1.0
+aiofiles>=0.8.0 
